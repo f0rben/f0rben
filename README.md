@@ -12,10 +12,6 @@ Hola! Bienvenido a mi GitHub, Soy informático con más de 3 años de experienci
 
 Mi enfoque combina conocimiento técnico con una fuerte orientación a la eficiencia y prevención de errores. Me interesa especialmente el desarrollo de soluciones automatizadas y el crecimiento en áreas como DevOps, seguridad informática y administración de bases de datos.
 
-## 📁 Documentos adjuntos
-
-- [CV PDF](docs/cv.pdf)
-
 ## 🔧 Tecnologías destacadas
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
