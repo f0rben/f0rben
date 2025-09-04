@@ -6,7 +6,7 @@
 
 ## 📊 Presentación
 
-Hola! Bienvenido a mi GitHub, Soy informático con más de 3 años de experiencia, especializada en soporte técnico IT, automatización de tareas mediante Bash scripting y administración de sistemas Linux. He trabajado resolviendo incidencias críticas en entornos de producción y desarrollando soluciones que mejoran la eficiencia operativa.
+Hola! Bienvenido a mi GitHub, Soy SysAdmin con más de 3 años de experiencia, especializada en soporte técnico IT, automatización de tareas mediante Bash scripting y administración de sistemas Linux. He trabajado resolviendo incidencias críticas en entornos de producción y desarrollando soluciones que mejoran la eficiencia operativa.
 
 ## 🧠 Sobre mí
 
