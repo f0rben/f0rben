@@ -1,6 +1,6 @@
-<div align="center" width="50">
-    <img alt="profile-banner" src="./assets/oh hi there.png" width="300"/>
-</div>
+<p align="center">
+  <img src="./assets/banner.png" alt="GitHub Banner" />
+</p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ben Contreras</h1>
 <img src="https://komarev.com/ghpvc/?username=f0rben" alt="f0rben" />
