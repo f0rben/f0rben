@@ -2,7 +2,7 @@
   <img src="Imagen.png" alt="GitHub Banner" width="800" height="400" />
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ben Contreras</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Benjamin Contreras</h1>
 <img src="https://komarev.com/ghpvc/?username=f0rben" alt="f0rben" />
 
 ---
