@@ -12,7 +12,7 @@
 - 🏢 SysAdmin with **+3 years of experience** in IT Support & Linux server administration  
 - ⚙️ Specialized in **automation with Bash scripting** and **monitoring tools** (Nagios, Zabbix, Prometheus)  
 - 🛠 Experience with **databases**: MySQL, PostgreSQL, Oracle DB, SQL Server  
-- 🌐 Interested in DevOps, Cloud (AWS), and Cybersecurity  
+- 🌐 Interested in DevOps, Cloud (AWS),Cybersecurity, and System/Server Administration
 - 📍 Based in **Santiago, Chile**  
 - ⚡ **Fun Facts** : ☕ 🎮 ⚽ 💻 📚  
 
